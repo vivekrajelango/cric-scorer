@@ -1,0 +1,32 @@
+{
+    "hostId":101,
+    "hostName": "Chennai",
+    "opponentId": 102,
+    "opponentName":"Mumbai",
+    "tossWon": 101,
+    "optedTo":"Bat",
+    "overs": "12",
+    "TeamOne":{
+        "id": 101,
+        "name": "Chennai",
+        "tossWon":true,
+        "electedTo": "Bowl",
+        "runRate":0.00,
+        "players": [
+            {
+                "id":1,
+                "name": "Vivekraj",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "strikeRate": 0.00,
+                "overs": 0,
+                "maidens":0,
+                "runsGiven":0,
+                "wickets":0,
+                "economyRate":0.00
+            }
+        ]
+    }
+}
